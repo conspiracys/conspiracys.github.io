@@ -1,0 +1,103 @@
+#r {
+    color: white;
+    background-color: black;
+    inset-block-start: 100px;
+    inset-inline-start: 20px;
+}
+
+
+#l {
+    color: white;
+    background-color: black;
+    
+}
+
+#ufos {
+    border-style: solid;
+    border-width: 5px;
+    border-color:#222222;
+}
+
+
+body {
+    margin: 0px;
+    color: #adadad;
+    text-align: center;
+    background-image: url("UFO.jpg");
+    background-repeat: no-repeat;
+    background-position: top;
+    background-color: #222222
+}
+
+#main {
+    font-size: 100px;
+    color:#adadad;
+    text-align: center;
+    margin: 0px;
+}
+
+#sus {
+    font-size: 48px;
+    color:#adadad;
+    text-align: center;
+    margin: 10px;
+}
+
+#k {
+    margin: 10px;
+    font-size: 12px;
+    border-style: solid;
+    border-color: #222222;
+    background-color: #222222c4;
+    padding-inline-start: 200px;
+    padding-inline-end: 200px;
+   
+   
+}
+
+
+#ufos {
+    font-size: 48px;
+    color:#adadad;
+    text-align: center;
+    margin: 10px;
+    
+}
+
+body {
+    background-image: url("UFO.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+
+.v {
+    font-size: 100px;
+    border-style: solid;
+    border: #222222;
+    color: #adadad;
+
+  }
+
+  .h{
+    font-size: 50px;
+    border-style: solid;
+    border: #222222c4;
+    border-color: #222222;
+    
+    color: #adadad;
+  }
+
+
+
+
+
+
+
+
+
+
+  #animate {
+    background-size: auto;
+    position: absolute;
+    background-image: "flying.png";
+  }
